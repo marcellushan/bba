@@ -4,7 +4,7 @@
             <h1 class="wrapper">New Applicants</h1>
                 <h1 class="mytitle">Application for Admission<br>
                     Bachelor of Business Administration Program
-                    <br>Fall 2017
+                    <br>Fall 2018
                 </h1>
 
 
