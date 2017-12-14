@@ -1,0 +1,409 @@
+<ul class="nav nav-tabs">
+ 	<li class="active"><a href="#policies" data-toggle="tab">Policies</a></li>
+ 	<li><a href="#standards" data-toggle="tab">Standards</a></li>
+ 	<li><a href="#guidelines" data-toggle="tab">Guidelines</a></li>
+</ul>
+<div class="tab-content">
+<div id="policies" class="tab-pane active">
+<table class="table table-striped table-hover">
+<thead>
+<tr>
+<th>Number</th>
+<th>Name</th>
+<th></th>
+<th>Date Issued</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ITS.PO.100</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_acceptable_use_policy.pdf">Acceptable Use</a></td>
+<td></td>
+<td>March 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.110</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/">Analog Line</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>March 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.120</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_audit_policy.pdf">Audit</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>March 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.130</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/11/">Backup</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>March 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.140</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_banner_controls_policy.pdf">Banner Controls</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>March 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.150</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_change_control_policy.pdf">Change Control</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>March 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.160</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_database_credentials_policy.pdf">Database Credentials</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>March 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.170</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_electronic_data_disposal_policy.pdf">Electronic Data Disposal</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>March 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.180</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_email_policy.pdf">Email</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>March 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.190</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_encryption_policy.pdf">Encryption</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>March 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.200</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_external_acceptable_use_policy.pdf">External Acceptable Use</a></td>
+<td></td>
+<td>March 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.210</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_extranet_policy.pdf">Extranet</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>March 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.220</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_firewall_policy.pdf">Firewall</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>March 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.230</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_incident_management_policy.pdf">Incident Management</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>March 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.240</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_information_sensitivity_policy.pdf">Information Sensitivity</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>March 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.250</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_logging_policy.pdf">Logging</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>April 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.260</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_mobile_communication_device_policy.pdf">Mobile Communication Devices</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>April 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.270</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_network_security_policy.pdf">Network Security</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>April 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.280</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_password_protection_policy.pdf">Password Protection</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>April 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.290</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_pci_dss_policy.pdf">PCI DSS</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>April 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.300</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_personnel_security_policy.pdf">Personnel Security</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>April 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.310</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_physical_security_and_logical_access_policy.pdf">Physical Security &amp; Logical Access</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>April 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.320</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_problem_management_policy.pdf">Problem Management</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>April 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.330</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_remote_access_policy.pdf">Remote Access</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>April 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.340</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_risk_management_policy.pdf">Risk Management</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>April 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.350</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_security_plan_compliance_policy.pdf">Security Plan Compliance</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>April 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.360</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_server_security_policy.pdf">Server Security</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>April 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.370</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_web_policy.pdf">Web</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>April 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.380</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_wireless_network_security_policy.pdf">Wireless Network Security</a></td>
+<td></td>
+<td>April 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.390</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_endpoint_security_policy.pdf">Endpoint Security</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>March 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.400</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_security_awareness_program_policy.pdf">Security Awareness Program</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>April 2013</td>
+</tr>
+<tr>
+<td>ITS.PO.410</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_byod_policy.pdf">Bring Your Own Device (BYOD)</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>March 2014</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="standards" class="tab-pane">
+<table class="table table-striped table-hover">
+<thead>
+<tr>
+<th>Number</th>
+<th>Name</th>
+<th></th>
+<th>Date Issued</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ITS.ST.100</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_acceptable_use_standard.pdf">Acceptable Use</a></td>
+<td></td>
+<td>March 2013</td>
+</tr>
+<tr>
+<td>ITS.ST.110</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_analog_line_standard.pdf">Analog Line</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>March 2013</td>
+</tr>
+<tr>
+<td>ITS.ST.170</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_electronic_data_disposal_standard.pdf">Electronic Data Disposal</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>March 2013</td>
+</tr>
+<tr>
+<td>ITS.ST.180</td>
+<td>
+<div class="dropdown">
+
+<a href="#" data-toggle="dropdown">Email</a>
+<ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+ 	<li><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_email_standard.pdf">Standard (PDF)</a></li>
+ 	<li><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/signature1.png">GHC Shield Logo</a></li>
+ 	<li><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/signature2.png">GHC Text Logo</a></li>
+</ul>
+</div></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>March 2013</td>
+</tr>
+<tr>
+<td>ITS.ST.181</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_ghc_inform_standard.pdf">GHC Inform</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>March 2013</td>
+</tr>
+<tr>
+<td>ITS.ST.190</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_encryption_standard.pdf">Encryption</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>March 2013</td>
+</tr>
+<tr>
+<td>ITS.ST.200</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_external_acceptable_use_standard.pdf">External Acceptable Use</a></td>
+<td></td>
+<td>March 2013</td>
+</tr>
+<tr>
+<td>ITS.ST.250</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_logging_standard.pdf">Logging</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>March 2013</td>
+</tr>
+<tr>
+<td>ITS.ST.270</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_network_security_standard.pdf">Network Security</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>April 2013</td>
+</tr>
+<tr>
+<td>ITS.ST.280</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_password_protection_standard.pdf">Password Protection</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>April 2016</td>
+</tr>
+<tr>
+<td>ITS.ST.290</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_pci_dss_standard.pdf">PCI DSS</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>April 2013</td>
+</tr>
+<tr>
+<td>ITS.ST.330</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_remote_access_standard.pdf">Remote Access</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>April 2013</td>
+</tr>
+<tr>
+<td>ITS.ST.360</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_server_security_standard.pdf">Server Security</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>April 2013</td>
+</tr>
+<tr>
+<td>ITS.ST.370</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_web_standard.pdf">Web</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>April 2013</td>
+</tr>
+<tr>
+<td>ITS.ST.390</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_endpoint_security_standard.pdf">Endpoint Security</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>April 2013</td>
+</tr>
+<tr>
+<td>ITS.ST.410</td>
+<td>
+<div class="dropdown">
+
+<a href="#" data-toggle="dropdown">Bring Your Own Device (BYOD)</a>
+<ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+ 	<li><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_byod_standard.pdf">Standard (PDF)</a></li>
+ 	<li><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_byod_form.pdf">BYOD Form</a></li>
+</ul>
+</div></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>March 2014</td>
+</tr>
+<tr>
+<td>ITS.ST.420</td>
+<td><a href="https://www2.highlands.edu/inc/files/userfiles/16-f4bd5b375967fda-ITSIdentityTheftPreventionStandard(RedFlagsRule).pdf">Identity Theft Prevention Standard (Red Flags Rule)</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>April 2016</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="guidelines" class="tab-pane">
+<table class="table table-striped table-hover">
+<thead>
+<tr>
+<th>Number</th>
+<th>Name</th>
+<th></th>
+<th>Date Issued</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ITS.GU.130</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_backup_guideline.pdf">Backup</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>March 2013</td>
+</tr>
+<tr>
+<td>ITS.GU.150</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_change_control_guideline.pdf">Change Control</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>March 2013</td>
+</tr>
+<tr>
+<td>ITS.GU.270</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_network_monitoring_guideline.pdf">Network Monitoring</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>April 2013</td>
+</tr>
+<tr>
+<td>ITS.GU.390</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_securing_publicly_available_systems_guideline.pdf">Secure Publicy Available Systems</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>April 2013</td>
+</tr>
+<tr>
+<td>N/A</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_asset_classification_and_control_guideline.pdf">Asset Class and Control</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>March 2013</td>
+</tr>
+<tr>
+<td>N/A</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_eas_training_guideline.pdf">EAS Training</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>March 2013</td>
+</tr>
+<tr>
+<td>N/A</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_information_and_software_exchange_agreements_guideline.pdf">Information and Software Exchange Agreement</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>March 2013</td>
+</tr>
+<tr>
+<td>N/A</td>
+<td><a href="https://sites.highlands.edu/information-technology-services/wp-content/uploads/sites/42/2017/11/its_policy_process_guideline.pdf">Policy Process</a></td>
+<td><img style="width: 16px; height: 16px;" src="https://www2.highlands.edu/site/images/lock2.png" alt="" /></td>
+<td>April 2013</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+&nbsp;
