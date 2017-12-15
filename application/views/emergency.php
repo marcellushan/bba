@@ -3,7 +3,7 @@
 	EMERGENCY CONTACT INFORMATION
 	</h1>
 
-     <? (@$edit ? $destination="edit" : $destination = "have_transcripts") ?>
+     <? (@$edit ? $destination="edit" : $destination = "program") ?>
 	<form action='<?=base_url("applicant/put/" . $destination)?>' id="emergency" method="post">
 		<fieldset>
 			<h2>Name</h2>

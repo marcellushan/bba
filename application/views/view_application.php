@@ -95,24 +95,6 @@
 		</div><!-- section-border -->
 
 
-					 <h3 class="wrapper">Transcript(s)
-                         <? if(! $applicant->complete) : ?>
-                             <input type="button" class="btn btn-danger btn-lg" onclick="window.location.href='<? echo base_url() ?>transcript/get'"value="Update Transcript">
-                         <? endif; ?></h3>
-                     </h3>
-		 <? if($transcripts): ?>
-				 <?php foreach ($transcripts as $transcript):?>
-					 <div class="row">
-						 <h4 class="col-md-1">School</h4>
-						 <h4 class="item col-md-2"><?=$transcript->school?></h4>
-						 <h4 class="col-md-1">Start</h4>
-						 <h4 class="item col-md-2"><?=$transcript->start_date?></h4>
-						 <h4 class="col-md-1">End</h4>
-						 <h4 class="item col-md-2"><?=$transcript->start_date?></h4>
-						 <h4 class="item col-md-2"><a href="<?=$transcript->image?>" target="_blank">Image</a></h4>
-					 </div><!-- row -->
-				 <?php endforeach;?>
-			 <? endif; ?>
 		 <div class="row">
 			 <div class="col-md-6">
 				<h3>Program Questions

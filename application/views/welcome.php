@@ -37,7 +37,7 @@
                         <input type="checkbox" name="grades"> I have a grade of C or better in ACCT 2101, ACCT 2102, BUSA 2106, BUSA 2205, ECON
                         2105, ECON 2106 and MATH 2200<br><br>
                         or<br><br>
-                        I have a C or better in the above classes while completing the remainder of the required Area F courses during Summer 2017
+                        I have a C or better in the above classes while completing the remainder of the required Area F courses during Spring/ Summer 2018
 
                     </h3>
                     <h3>

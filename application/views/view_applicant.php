@@ -39,15 +39,7 @@
 													value="Mark Complete"></div>
 				 <? endif;?>
 			 </div>
-			 <div class="col-md-6">
-				 <? if($applicant->funds):?>
-					 <h3 class="col-md-11">Funds Received by: <?=$applicant->funds_by ?></h3>
-					 <h3 class="col-md-11">Funds Received Date:  <?=date_format(date_create($applicant->funds_date), 'F d Y') ?></h3>
-				 <? else:?>
-					 <div class="col-md-11"> <input type="button" class="btn btn-success btn-lg"
-													onclick="window.location.href='<? echo base_url() ?>admin/update/funds/<?=$applicant->applicant_id ?>'"value="Funds Received" disabled></div>
-				 <? endif;?>
-			 </div>
+
 		 </div><!--row-->
 
 		<div class="section-border">
@@ -105,24 +97,6 @@
 				<h4 class="item col-md-3"><?=($applicant->e_backup_phone ? $applicant->e_backup_phone : "None Provided")?></h4>
 			</div><!-- row -->
 		 </div><!--section-border -->
-	 <? if($transcripts): ?>
-
-			 <h3 class="wrapper">Transcript(s)</h3>
-
-					 <?php foreach ($transcripts as $transcript):?>
-					 <div class="row">
-						 <h4 class="col-md-1">School</h4>
-						 <h4 class="item col-md-2"><?=$transcript->school?></h4>
-						 <h4 class="col-md-1">Start</h4>
-						 <h4 class="item col-md-2"><?=$transcript->start_date?></h4>
-						 <h4 class="col-md-1">End</h4>
-						 <h4 class="item col-md-2"><?=$transcript->start_date?></h4>
-						 <h4 class="item col-md-2"><a href="<?=$transcript->image?>" target="_blank">Image</a></h4>
-					 </div><!-- row -->
-					 <?php endforeach;?>
-		<? else:?>
-		 	<h3 class="wrapper">No Transcripts provided</h3>
-		 <? endif; ?>
 
 		 <div class="row">
 			 <div class="col-md-6">
