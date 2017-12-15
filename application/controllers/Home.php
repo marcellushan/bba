@@ -26,8 +26,8 @@ class Home extends CI_Controller {
 //        $data['employers'] = $this->EmployerModel->get_list('applicant_id',$id);
 //        $this->load->model('LicenseModel');
 //        $data['licenses'] = $this->LicenseModel->get_list('applicant_id',$id);
-        $this->load->model('TranscriptModel');
-        $data['transcripts'] = $this->TranscriptModel->get_list('applicant_id',$id);
+//        $this->load->model('TranscriptModel');
+//        $data['transcripts'] = $this->TranscriptModel->get_list('applicant_id',$id);
         $this->load->view('templates/header');
         $this->load->view('view_application',$data);
 

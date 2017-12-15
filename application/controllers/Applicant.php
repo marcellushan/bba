@@ -16,8 +16,6 @@ class Applicant extends CI_Controller {
 
         $this->load->model('ApplicantModel');
         $applicant = new ApplicantModel();
-//        $this->load->model('StateModel');
-//        $data['states'] = $this->StateModel->get_states();
         $this->load->view('templates/header');
         if($data = $this->ApplicantModel->entry_exists('GHC_ID', @$_POST['GHC_ID'])) {
             $this->load->view('ghc_duplicate');
@@ -26,6 +24,7 @@ class Applicant extends CI_Controller {
             $this->load->model('StateModel');
             $data['states'] = $this->StateModel->get_states();
             $applicant->application_date = date('Y-m-d');
+            $applicant->academic_year = '2018';
             $applicant->preferred_email = $_SESSION['email'];
             $applicant->password = $_SESSION['password'];
             $applicant->save();
