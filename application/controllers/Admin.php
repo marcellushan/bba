@@ -4,7 +4,7 @@ class Admin extends CI_Controller {
 	
 
 	
-	public function index($type=0)
+	public function index($type='all')
 	{
         
         if(! $_SESSION['username']) {
@@ -14,7 +14,8 @@ class Admin extends CI_Controller {
 		$this->load->view('templates/header');
 		$this->load->model('ApplicantModel');
         $data['type'] = $type;
-        ($type ? $data['applicants'] = $this->ApplicantModel->get_category($type) : $data['applicants'] = $this->ApplicantModel->get());
+//        ($type ? $data['applicants'] = $this->ApplicantModel->get_category($type) : $data['applicants'] = $this->ApplicantModel->get_where());
+        $data['applicants'] = $this->ApplicantModel->get_category($type);
         $this->load->view('applications',$data);
 
 	}
